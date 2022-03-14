@@ -8,6 +8,7 @@
 ### Aula:
 
 [Slides](slides.pdf)
+<br>
 [Slides - PowerPoint](slides.pptx)
 
 ### Links úteis
@@ -35,7 +36,7 @@
 
 ### Desafio
 
-SOON
+[Desafio](desafio.md)
 
 
 
