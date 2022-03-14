@@ -8,6 +8,7 @@
 ### Aula:
 
 [Slides](slides.pdf)
+[Slides - PowerPoint](slides.pptx)
 
 ### Links úteis
 [Node.js](https://nodejs.org/en/)
